@@ -1,0 +1,16 @@
+li{
+  font-size: 30px;
+  color:blue;
+  background-image:url("http://img3.wikia.nocookie.net/__cb20150102235750/tomandjerry/images/1/11/Tom-and-Jerry2.jpg");
+  background-size: auto;
+  background-position: center;
+  list-style-image: url("http://4.bp.blogspot.com/-HP9ocm36Yp0/VMusNmDEg-I/AAAAAAAAAfY/AlbjGmBI-iU/s1600/icon.175x175-75.png");
+  list-style-position: inside;
+  text-align: center;
+}
+
+h1{
+  text-align: center;
+  color:yellow;
+  background-color: purple;
+}
